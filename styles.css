@@ -1,0 +1,140 @@
+header {
+    background-color: #1d2124;
+    width: 100%;
+    height: 65px;
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    display: inline;
+    width: 100px;
+    height: 27px;
+    margin-left: 50px;
+    margin-top: 19px;
+}
+.line{
+    position: absolute;
+    height: 65px;
+    left: 200px;
+    top: 8px;
+    border-left: 1px solid white;
+    padding-left:10px;
+}
+.findicon {
+    height: 23px;
+    filter: brightness(0) invert(1);
+    position: absolute;
+    left: 225px;
+    top: 31px;
+}
+h5>a {
+    text-decoration: none;
+    display: inline;
+    color: white;
+    font-family: "Microsoft JhengHei Light";
+    position: absolute;
+    left: 254px;
+    top: 8px;
+    font-size: 15px;
+
+}
+.find > textarea {
+    background-color: #1d2124;
+    color: white;
+    resize: none;
+    border: 0;
+    height: 18px;
+    position: absolute;
+    left: 258px;
+    top: 33px;
+    font-size: 15px;
+}
+div.channel_find {
+    color: white;
+    background-color: #1d2124;
+    position: absolute;
+    left:1070px;
+    top:33px;
+    font-family: "Microsoft JhengHei Light";
+    font-size: 15px;
+    opacity: .4;
+}
+#line_header_2 {
+    left: 1200px;
+}
+.icons_header_right>img {
+    position: absolute;
+    height: 36px;
+    left:1250px;
+    top:22px;
+}
+
+
+.layout_sidebar {
+
+    width: 192px; margin: auto;
+
+    height: 25%;
+
+    position: relative;
+
+    float: left;
+
+    background: white;
+
+}
+.sidebar, .layout_sidebar { position: absolute; }
+
+.sidebar {
+    margin: 20px;
+    background: white;
+    width: 120px;
+
+}
+td {
+    padding-left: 50px;
+    font-family: "Proxima Nova";
+    font-size: 14px;
+}
+#subscriptions {
+    top:300px;
+}
+textarea.layout_sidebar {
+    background-color: white;
+    color: #1d2124;
+    resize: none;
+    border: 0;
+    height: 24px;
+    width:100px;
+    font-size: 16px;
+    font-family: "Proxima Nova";
+    position: absolute;
+    left: 58px;
+    top: 263px;
+    font-size: 15px;
+}
+#line_sidebar {
+    position: absolute;
+    width: 120px;
+    left: 58px;
+    top: 290px;
+    opacity: 0.4;
+    border-top: 1px solid #1d2124;
+    padding-left:10px;
+}
+.player {
+    margin-top: 20px;
+    height: 680px;
+    position: absolute;
+    left:200px;
+}
+.video_on_the_right {
+    position: absolute;
+    height:560px;
+    left:1210px;
+    top: 93px;
+}
+a {
+    text-decoration: none;
+    color: #1d2124;
+}
